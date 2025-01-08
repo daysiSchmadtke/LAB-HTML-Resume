@@ -1,0 +1,32 @@
+* {
+  color: white;
+}
+
+body {
+  background-color: black;
+  background-image: url(9.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+}
+h1 {
+  color: white;
+}
+
+#Accenture {
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+  border: 2px solid blue;
+}
+#Sprint {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: green;
+  border: 1px solid red;
+}
+#Verizon {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: green;
+  border: 2px dashed cyan;
+}
